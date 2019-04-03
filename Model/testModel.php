@@ -9,6 +9,6 @@
 class testModel
 {
     function get(){
-        return "hello world";
+        return "success";
     }
 }
